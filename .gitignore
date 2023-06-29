@@ -4,4 +4,3 @@ docker/
 yarn-error.log
 uploads/
 .DS_Store
-build/
